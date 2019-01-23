@@ -1,9 +1,10 @@
 Node version 8.11.3
 
-to start the server, from the project root type node src  
+to start the server, in the terminal from the project root type: node src  
 the server will start on localhost:4000
 
 DATABASE
+
 create a mongo database and run the node project found at https://github.com/jasontenbrink/footBallDataDump to polulate the database
 see https://github.com/jasontenbrink/footBallDataDump for further instructions on database creation
 
